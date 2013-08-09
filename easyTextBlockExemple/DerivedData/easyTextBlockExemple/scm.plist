@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array/>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2013-08-09T22:37:03Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Users/ann-kristinabel/Desktop/of_v0073_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiPhone_iphoneos_Debug.a</string>
+		<string>/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxFTGLES/src/ofxFTGLESFont.cpp</string>
+	</array>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>

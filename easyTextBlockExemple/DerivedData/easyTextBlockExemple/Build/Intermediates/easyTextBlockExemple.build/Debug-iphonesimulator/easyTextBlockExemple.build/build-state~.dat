@@ -1,0 +1,361 @@
+TeasyTextBlockExemple
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/Info.plist ofxiphone-Info.plist
+cCpResource ../../../addons/ofxEasyText/install.xml DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xml
+cProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000051BBBB3A00000000001EB540
+t1371257658
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000051BBBB3900000000003D4DF0
+t1371257657
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051BBBB3C0000000000228FE0
+t1371257660
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051BBBB3C000000000009C590
+t1371257660
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000051BBBB3C0000000000085620
+t1371257660
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000051BBBB3E0000000000020F20
+t1371257662
+s134944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051BBBB3F00000000003DDFA0
+t1371257663
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051BBBB3F00000000000015F7
+t1371257663
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000051BBBB4900000000000F9CF0
+t1371257673
+s1023216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c0000000051BBBB4E0000000000030EB0
+t1371257678
+s200368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000051BBBB4F0000000000015400
+t1371257679
+s87040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000051BBBB5000000000001D5750
+t1371257680
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051BBBB520000000000000E8D
+t1371257682
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051BBBB550000000000AB6230
+t1371257685
+s11231792
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxEasyText/install.xml
+c0000000051CDADF30000000000000002
+t1372433907
+s2
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxEasyText/src/ofxEasyTextBlock.mm
+c0000000051F98A1100000000000022B0
+t1375308305
+s8880
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxFTGLES/src/ofxFTGLESFont.mm
+c0000000051C73EAE00000000000009D8
+t1372012206
+s2520
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxml.cpp
+c0000000050A405380000000000009064
+t1352926520
+s36964
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxmlerror.cpp
+c0000000050A405380000000000000712
+t1352926520
+s1810
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxmlparser.cpp
+c0000000050A405380000000000009B7D
+t1352926520
+s39805
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/src/ofxXmlSettings.cpp
+c0000000050A405380000000000004F18
+t1352926520
+s20248
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.pth
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.pth
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/easyTextBlockExemple.LinkFileList
+c0000000052056B1900000000000007F6
+t1376086809
+s2038
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/ofxEasyTextBlock.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/ofxFTGLESFont.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/ofxXmlSettings.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/tinyxml.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/tinyxmlerror.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/tinyxmlparser.o
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Script-9255DD331112741900D6945E.sh
+c0000000052056B190000000000000042
+t1376086809
+s66
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app.dSYM
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/Info.plist
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/PkgInfo
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/easyTextBlockExemple
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xml
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/iPhone_Prefix.pch
+c000000005087089E00000000000000B5
+t1351026846
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm
+c0000000051CDB191000000000000012E
+t1372434833
+s302
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm
+c0000000052056B140000000000000931
+t1376086804
+s2353
+
+N/Users/ann-kristinabel/Desktop/of_v0073_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiPhone_iphonesimulator_Debug.a
+c0000000051F98A5600000000020A5388
+t1375308374
+s34231176
+
+Nofxiphone-Info.plist
+c000000005087089E0000000000000445
+t1351026846
+s1093
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxEasyText/src/ofxEasyTextBlock.mm
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxFTGLES/src/ofxFTGLESFont.mm
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxml.cpp
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxmlerror.cpp
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxmlparser.cpp
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/src/ofxXmlSettings.cpp
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies45b88d99a2b5b741^7bdb9099a2b5b741^---0#1#0#--18"Check dependencies36"F25E062F-0C5D-44FF-BC8F-5348E4C2A5EF-
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397779611.210722
+e397779613.666974
+r1
+xCompileC
+xDerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.o
+x/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm8719369ba2b5b741^7b2dc89da2b5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm0000000000000000^6157"CompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.o src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/include -I../../../addons/ofxFTGLES/src -I../../../addons/ofxFTGLES/libs/freetype2/include -I../../../addons/ofxFTGLES/libs/ftgles/src -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator -include /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.dia -c /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/main.mm -o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/main.o36"31C75F92-A823-4EBE-ADF3-79970CFFE2E8-
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/ofxEasyTextBlock.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxEasyText/src/ofxEasyTextBlock.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/ofxFTGLESFont.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxFTGLES/src/ofxFTGLESFont.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/ofxXmlSettings.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/src/ofxXmlSettings.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397779613.668323
+e397779615.103632
+r0
+xCompileC
+xDerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.o
+x/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm:34:14: error: expected ';' at end of declaration
+o    textBlock.setText(testString, ofGetScreenWidth()*0.8);
+o             ^
+o             ;
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm2043ab9da2b5b741^ba811a9fa2b5b741^-264"/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm:34:14: error: expected ';' at end of declaration    textBlock.setText(testString, ofGetScreenWidth()*0.8);             ^             ;1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@34"Expected ';' at end of declaration-397779615#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@122"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm0000000000000000^33#13#33#13#834#0#11"Parse Issue1(3@122"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm0000000000000000^33#13#33#13#834#0#-0#0#0#-19%DVTDocumentLocation4@122"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm0000000000000000^6175"CompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.o src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/include -I../../../addons/ofxFTGLES/src -I../../../addons/ofxFTGLES/libs/freetype2/include -I../../../addons/ofxFTGLES/libs/ftgles/src -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator -include /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.dia -c /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/src/testApp.mm -o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/testApp.o36"6D76BE54-BF0C-4AF8-8A07-DF6A167BDF44-
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/tinyxml.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxml.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/tinyxmlerror.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxmlerror.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Objects-normal/i386/tinyxmlparser.o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../ofxXmlSettings/libs/tinyxmlparser.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCpResource ../../../addons/ofxEasyText/install.xml DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xml
+s397779609.707705
+e397779609.760182
+r1
+xCpResource
+x../../../addons/ofxEasyText/install.xml
+xDerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xmla645b599a2b5b741^69a7c299a2b5b741^---0#0#0#-19%DVTDocumentLocation2@214"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xml000000000080d041^1009"CpResource ../../../addons/ofxEasyText/install.xml DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/install.xml    cd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/../../../addons/ofxEasyText/install.xml /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app36"B1173E52-9787-4BA5-9498-E49B091451D4-
+
+CGenerateDSYMFile /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app.dSYM /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/easyTextBlockExemple
+r0
+
+CLd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/easyTextBlockExemple normal i386
+r0
+
+CPhaseScriptExecution "Run Script" /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/Script-9255DD331112741900D6945E.sh
+r0
+
+CProcessInfoPlistFile /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/Info.plist ofxiphone-Info.plist
+s397779609.645209
+e397779609.699628
+r1
+xProcessInfoPlistFile
+x/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/Info.plist
+xofxiphone-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process ofxiphone-Info.plistedf0af99a2b5b741^e928b399a2b5b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/ofxiphone-Info.plist0000000000000000^962"ProcessInfoPlistFile DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/Info.plist ofxiphone-Info.plist    cd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ofxiphone-Info.plist -genpkginfo /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app/Info.plist36"2616C64A-DEA3-47D7-A254-B4D0004FD0D3-
+
+CProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397779611.186814
+e397779611.209398
+r1
+xProcessPCH++
+x/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.pth
+xiPhone_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile iPhone_Prefix.pch40f92f9ba2b5b741^acac359ba2b5b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/iPhone_Prefix.pch0000000000000000^5636"ProcessPCH++ DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/include -I../../../addons/ofxFTGLES/src -I../../../addons/ofxFTGLES/libs/freetype2/include -I../../../addons/ofxFTGLES/libs/ftgles/src -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.dia -c /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/iPhone_Prefix.pch -o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.pth -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-aaviwvgxojcrmxalmjyrbfrdesqg/iPhone_Prefix.pch.d36"27496FFA-CF3C-40B3-98F9-75CAB501E939-
+
+CProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397779609.768151
+e397779611.185497
+r1
+xProcessPCH++
+x/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.pth
+xiPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile iPhone_Prefix.pch221ac599a2b5b741^8d7b2f9ba2b5b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/iPhone_Prefix.pch0000000000000000^5866"ProcessPCH++ DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/easyTextBlockExemple-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/include -I../../../addons/ofxFTGLES/src -I../../../addons/ofxFTGLES/libs/freetype2/include -I../../../addons/ofxFTGLES/libs/ftgles/src -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxiPhone/src/app -I../../../addons/ofxiPhone/src/core -I../../../addons/ofxiPhone/src/events -I../../../addons/ofxiPhone/src/gl -I../../../addons/ofxiPhone/src/sound -I../../../addons/ofxiPhone/src/utils -I../../../addons/ofxiPhone/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/easyTextBlockExemple.build/Debug-iphonesimulator/easyTextBlockExemple.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.dia -c /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/iPhone_Prefix.pch -o /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.pth -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Intermediates/PrecompiledHeaders/iPhone_Prefix-dsfprwuipqdfqzgujwpcnjfqgezo/iPhone_Prefix.pch.d36"36CD0A04-E260-4FCC-9062-263351ECDC01-
+
+CProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Index/PrecompiledHeaders/iPhone_Prefix-cvyencfylcifrscktolpdfxklrnj_ast/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Index/PrecompiledHeaders/iPhone_Prefix-gfaotmmguppibqatvverrvfmdrup_ast/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/ann-kristinabel/Desktop/of_v0073_ios_release/addons/ofxEasyText/easyTextBlockExemple/DerivedData/easyTextBlockExemple/Build/Products/Debug-iphonesimulator/easyTextBlockExemple.app
+r0
+

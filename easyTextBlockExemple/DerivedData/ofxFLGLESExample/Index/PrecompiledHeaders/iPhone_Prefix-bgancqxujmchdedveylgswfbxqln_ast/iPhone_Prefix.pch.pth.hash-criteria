@@ -1,0 +1,35 @@
+Contents of /Users/ann-kristinabel/Desktop/of_v0073_ios_release/examples/ios/ofxFTGLES/example/iPhone_Prefix.pch
+4.1 (tags/Apple/clang-421.11.66) (based on LLVM 3.1svn)
+i386-apple-darwin12.2.0
+-x
+objective-c++
+-arch
+i386
+-fmessage-length=0
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fvisibility-inlines-hidden
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-mios-simulator-version-min=3.1
+-iquote
+-iquote
+-I/Users/ann-kristinabel/Desktop/of_v0073_ios_release/examples/ios/ofxFTGLES/example/DerivedData/ofxFLGLESExample/Build/Products/Debug-iphonesimulator/include
+-I../../../addons/ofxFTGLES/src
+-I../../../addons/ofxFTGLES/libs/freetype2/include
+-I../../../addons/ofxFTGLES/libs/ftgles/src
+-Isrc
+-F/Users/ann-kristinabel/Desktop/of_v0073_ios_release/examples/ios/ofxFTGLES/example/DerivedData/ofxFLGLESExample/Build/Products/Debug-iphonesimulator
+-ferror-limit=10
+-working-directory=/Users/ann-kristinabel/Desktop/of_v0073_ios_release/examples/ios/ofxFTGLES/example
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=10A403
