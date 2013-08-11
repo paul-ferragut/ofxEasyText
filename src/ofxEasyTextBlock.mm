@@ -275,20 +275,7 @@ string ofxEasyTextBlock::addSpace(string _input)
 {
     
     string output=_input;
-    //string *replace;
-    
-    /*
-    replace=new string;
-    replace=&output;
-    ofStringReplace(*replace, "[BR]", " [BR] ");
-    ofStringReplace(*replace, "[ITALIC]", " [ITALIC] ");
-    ofStringReplace(*replace, "[ENDITALIC]", " [ENDITALIC] ");
-    ofStringReplace(*replace, "[TITLE]", " [TITLE] ");
-    ofStringReplace(*replace, "[ENDTITLE]", " [ENDTITLE] ");
-    ofStringReplace(*replace, "  ", " ");
-    //cout<<"output:"<<*replace<<endl;
-    return *replace;
-    */
+
 
     ofStringReplace(output, "[BR]", " [BR] ");
     ofStringReplace(output, "[ITALIC]", " [ITALIC] ");
